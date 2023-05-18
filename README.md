@@ -1,2 +1,2 @@
 # Personal-Website
-Builded using HTML &amp; CSS only
+Built using HTML &amp; CSS only
